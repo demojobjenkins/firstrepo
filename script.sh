@@ -1,4 +1,4 @@
 #!/bin/bash
 
 echo ${BUILD_NUMBER} >> hello.txt
-echo hello world
+echo hello world friday
